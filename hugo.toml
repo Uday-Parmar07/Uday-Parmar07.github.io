@@ -111,7 +111,7 @@ weight = 4.2
 [[menu.main]]
 identifier = "musings"
 name = "Essays"
-url = "/musings/"
+url = "/blog/"
 weight = 4.5
 
 
@@ -133,3 +133,19 @@ weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[server]
+  [[server.redirects]]
+    from = "/"
+    to = "/Uday-github.io/"
+    status = 302
+
+  [[server.redirects]]
+    from = "/blog/"
+    to = "/Uday-github.io/blog/"
+    status = 302
+
+  [[server.redirects]]
+    from = "/musings/"
+    to = "/Uday-github.io/blog/"
+    status = 302
