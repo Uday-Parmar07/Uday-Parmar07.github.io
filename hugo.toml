@@ -1,5 +1,5 @@
 # Site Configuration
-baseURL = 'https://uday-parmar07.github.io/Uday-github.io/'
+baseURL = 'www.udayparmar.in'
 languageCode = "en-us"
 title = "Uday Parmar"
 theme = "PaperMod"
