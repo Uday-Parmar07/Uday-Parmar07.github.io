@@ -37,11 +37,11 @@ If you're looking for something specific, try the
 
 <div class="gallery">
   <figure>
-    <img src="/Uday-github.io/images/SIH_Finalist.jpeg" alt="SIH_Finalist" />
+    <img src="/images/SIH_Finalist.jpeg" alt="SIH_Finalist" />
     <figcaption>Smart India hackathon Finalist</figcaption>
   </figure>
   <figure>
-    <img src="/Uday-github.io/images/WorldQuant_Gold.png" alt="WorldQuant" />
+    <img src="/images/WorldQuant_Gold.png" alt="WorldQuant" />
     <figcaption>Gold Medalist at World Quant Championship</figcaption>
   </figure>
 </div>

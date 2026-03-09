@@ -5,8 +5,6 @@ hideMeta = true
 showReadingTime = false
 +++
 
-# Photography
-
 A rolling gallery of shots from travel, street, and campus life.
 
 <div class="gallery">
