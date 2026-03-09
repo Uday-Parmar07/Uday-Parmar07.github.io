@@ -1,5 +1,5 @@
 # Site Configuration
-baseURL = 'www.udayparmar.in'
+baseURL = 'https://www.udayparmar.in/'
 languageCode = "en-us"
 title = "Uday Parmar"
 theme = "PaperMod"
@@ -134,18 +134,3 @@ weight = 6
 [markup.goldmark.renderer]
   unsafe = true
 
-[server]
-  [[server.redirects]]
-    from = "/"
-    to = "/Uday-github.io/"
-    status = 302
-
-  [[server.redirects]]
-    from = "/blog/"
-    to = "/Uday-github.io/blog/"
-    status = 302
-
-  [[server.redirects]]
-    from = "/musings/"
-    to = "/Uday-github.io/blog/"
-    status = 302
